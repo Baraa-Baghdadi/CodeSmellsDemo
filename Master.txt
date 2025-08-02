@@ -1,0 +1,3 @@
+https://chatgpt.com/c/687b48c8-a134-8008-ae54-82d50b257250  ==> Ndeppend
+
+https://chatgpt.com/c/687b45e5-d270-8008-a06d-4ae10a7230d0     ==> إثبات ان الروائج تظهر مع first commit and smells in layers and how we can fix it
