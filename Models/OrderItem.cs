@@ -12,5 +12,9 @@ namespace CodeSmellsDemo.Models
         public string ProductName { get; set; }
         public decimal Price { get; set; }
         public int Quantity { get; set; }
+
+        // Foreign Key for Order
+        public int OrderId { get; set; }
+        public Order Order { get; set; }
     }
 }
